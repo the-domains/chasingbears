@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[chasingbears]]></title>
         <description><![CDATA[chasingbears]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chasingbears/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 18:53:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jul 2016 19:08:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chasingbears/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Where Did All the Open Source Routers Go?]]></title>
+            <description><![CDATA[<article><h1>Where Did All the Open Source Routers Go?</h1><h2>What is WRTWRX? </h2><p>There have been few options for people who want an open source router. The determined DIY customer could purchase a router and flash their own open source firmware. But now that the FCC requires router manufacturers to lock down the 5ghz module things have gone from bad to worse. Most manufacturers have taken the easy way out by locking down their firmware. They have essentially turned their back on developers and the open source community. </p></article>]]></description>
+            <link>https://thegrid.ai/chasingbears/where-did-all-the-open-source-routers-go/index.html</link>
+            <guid isPermaLink="false">0fadd095-e1b4-4eb8-9c5b-af79663a8a8d</guid>
+            <pubDate>Tue, 12 Jul 2016 19:07:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85b899ac-3cbb-4098-8783-41933a4c1e1d.jpg">]]></description>
-            <link>undefinedloni-reads-a-lot-of-books-he-is-a-developer-and-entreprene/index.html</link>
+            <link>https://thegrid.ai/chasingbears/loni-reads-a-lot-of-books-he-is-a-developer-and-entreprene/index.html</link>
             <guid isPermaLink="false">cf0b3245-4999-4adf-ab65-fe16b70fce3e</guid>
             <pubDate>Tue, 12 Jul 2016 18:53:23 GMT</pubDate>
         </item>
