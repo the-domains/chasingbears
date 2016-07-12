@@ -1,7 +1,7 @@
 name: chasingbears
 favicon: null
-layout_spectrum: 0.184183934237808
-typography_spectrum: 0.80364646227099
+layout_spectrum: 1
+typography_spectrum: 0.10471
 cta:
   domain: null
   bucket: null
